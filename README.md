@@ -4,7 +4,9 @@
 
 ------
 
-​	MBA in Software Engineering | Specialization in Network and Internet Engineering | MBA in Digital Marketing | Graduation in Data Processing
+| MBA in Software Engineering | Specialization in Network and Internet Engineering |
+
+| MBA in Digital Marketing | Graduation in Data Processing |
 
 ------
 
