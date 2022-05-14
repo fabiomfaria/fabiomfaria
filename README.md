@@ -1,6 +1,6 @@
 ------
 
-# 	Welcome to our space on github					Fábio de Faria
+# 	Welcome to our space on github      |   Fábio de Faria
 
 ------
 
