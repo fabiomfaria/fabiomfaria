@@ -10,6 +10,7 @@
 
 ------
 ![](https://images.credly.com/size/250x250/images/ad39795a-4538-45e6-90fe-fd137c0c6651/image.png)
+
 ------
 
 ![](https://images.credly.com/size/130x130/images/fa418e1b-119d-4e79-b663-e6c20dfff214/Full_Stack_Cloud_Development_Capstone_Project.png)![](https://images.credly.com/size/130x130/images/49c40b34-794d-41c6-ace2-ec9a53a175de/Application_Development_using_Microservices_and_Serverless.png)![](https://images.credly.com/size/130x130/images/a3ff2154-3ad0-4bbf-8405-c84e777bdc9a/Developing_Applications_with_SQL__Databases__and_Django.png)![](https://images.credly.com/size/130x130/images/3cd98d8a-c224-4f8f-a839-d0a87422f2c1/Python_Project_for_AI_and_Application_Development.png)![](https://images.credly.com/size/130x130/images/73c1a67e-b3e8-44f1-a049-a91532e4f19c/Developing_Cloud_Apps_with_Node.js_and_React.png)
